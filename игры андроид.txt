@@ -160,7 +160,7 @@ Alto's Odyssey
 135. Prison Architect: Mobile
 136. Postal
 137. Predynastic Egypt
-138. Quake 1-3(лучше всего юзать неофф. порт Quad Touch)
+138. Quake 1-3, Hexen 2(лучше всего юзать неофф. порт Quad Touch)
 139. Radio Commander
 140. Rayman Classic
 141. Randals Monday
@@ -222,3 +222,8 @@ Reigns: Her Majesty, Reigns, GRIS
 193. One-Bit Adventurer
 194. Герои меча и магии 2(free heroes 2, свободные герои 2)
 https://www.youtube.com/watch?v=2Elplj7ogwA
+195. Return To Castle Wolfenstein (RTCW) Touch
+196. RollerCoaster Tycoon® Classic
+197. GRID™ Autosport, ROME: Total War, Tropico, Company of Heroes, XCOM 2 Collection, Alien: Isolation(взломаны частично)
+198. Runestone Keeper
+199. Roman Empire
