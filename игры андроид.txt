@@ -203,7 +203,7 @@ Reigns: Her Majesty, Reigns, GRIS
 174. Jedi Academy Touch, Jedi Knight II Touch
 175. STAY
 176. Сибирь 1 and 2
-177. Andors Trail
+177. Fate of Kai
 178. Tales from the Borderlands
 179. The Stanley Parable Full
 180. The Great Ace Attorney
@@ -217,7 +217,7 @@ Reigns: Her Majesty, Reigns, GRIS
 188. Townsmen 6
 189. Galaxy on fire 2 and 3
 190. Doodle Jump, Angry Birds 1 and 2 and 3, Rider, Geometry Dash, Fruit Ninja, Jetpack Joyride, Hill Climb Racing 1 and 2, Shadow Fight 2 and 3, Pou, My Talking Tom, Subway Surfers, Polytopia, Iron Maiden: Legacy of the Beast, Cut the Rope, Limbo, Machinarium, Island Casteway, Smash Hit, Knife Hit, Vector, Crossy Road, Hungry Shark, Asphalt 9, Zombie Catchers, Drive Ahead, Badland, Flip Diving, Red Ball 4, Крокодильчик Свомпи 1 и 2, Dumb Ways To Die, Bouncemasters, Big Hunter, Smashy Road, Temple Rush 1 and 2, Zombie Tsunami, Mekorama, Leo s fortune, Mad Dex, Spaceflight Simulator, Plague Inc
-191. Hello Neighbor
+191. Hello Neighbor 1 and 2
 192. Among Us
 193. One-Bit Adventurer
 194. Герои меча и магии 2(free heroes 2, свободные герои 2)
@@ -264,4 +264,5 @@ Apollo Justice Ace Attorney
 235. Forgotton Anne
 236. Helltaker(4pda)
 237. Cube Escape Collection
-238. Fate of Kai
+238. My Time at Portia
+239. Battlefield™ Mobile
