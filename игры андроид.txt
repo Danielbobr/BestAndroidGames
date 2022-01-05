@@ -203,7 +203,7 @@ Reigns: Her Majesty, Reigns, GRIS
 174. Jedi Academy Touch, Jedi Knight II Touch
 175. STAY
 176. Сибирь 1 and 2
-177. Tales of the Neon Sea
+177. Andors Trail
 178. Tales from the Borderlands
 179. The Stanley Parable Full
 180. The Great Ace Attorney
@@ -227,3 +227,30 @@ https://www.youtube.com/watch?v=2Elplj7ogwA
 197. GRID™ Autosport, ROME: Total War, Tropico, Company of Heroes, XCOM 2 Collection, Alien: Isolation(взломаны частично)
 198. Runestone Keeper
 199. Roman Empire
+200. Mindustry
+204. Stardew Valley
+205. The Last Door: Season 2
+206. The First Tree
+207. The Wild Case
+208. Choice of Life: Middle Ages
+209. The Great Ace Attorney
+210. Tropico
+211. Любительский порт Undertale
+212. OpenXCOM
+213. Ultimate Custom Night
+214. VA-11 Hall-A
+(https://github.com/pelya/commandergenius)(Port of SDL library and several games to the Android OS.)
+215. Warcraft II(Порт на 4пда)
+216. Warcraft 3 (порт на 4пда)
+217. The Wolf Among Us
+218. Worms 1-4
+219. XCOM: Enemy Unknown, XCOM: Enemy Within, XCOM 2 COLLECTION(не взломана)
+220. Yesterday
+221. Yesterday Origins
+222. Civilization Revolution 2
+223. SimCity BuildIt
+224. Battlefield: Bad Company 2(4pda)
+225. Dead space
+226. Deus Ex: The Fall
+227. Samorost 3
+228. Fahrenheit: Indigo Prophecy
